@@ -10,7 +10,7 @@ Understand mathematical principles behind ML algorithms.
 Develop and optimize ML models using industry-standard tools and techniques.
 Grasp core deep learning concepts such as optimizers, loss functions, neural networks, and CNNs.
 
-## 🗂 Folder Structure
+## 📁 Folder Structure
 DS-ML-DL-NLP-Bootcamp/
 │
 ├── README.md
