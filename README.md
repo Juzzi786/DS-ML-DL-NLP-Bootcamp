@@ -2,14 +2,13 @@
 
 This repository contains my complete practice work from the **Complete Data Science, Machine Learning, Deep Learning, and NLP Bootcamp** course on Udemy.
 
-## 📚 Course Topics Covered
-- Python for Data Science
-- NumPy & Pandas
-- Data Visualization (Matplotlib, Seaborn, Plotly)
-- Supervised & Unsupervised Machine Learning
-- Deep Learning with TensorFlow and Keras
-- Natural Language Processing (NLP)
-- Real-world projects and assignments
+## 📚 In the Complete Data Science, Machine Learning, DL, NLP Bootcamp, you will learn to:
+
+Master foundational and advanced Machine Learning and NLP concepts.
+Apply knowledge to real-world projects using Machine Learning, NLP, and MLOps.
+Understand mathematical principles behind ML algorithms.
+Develop and optimize ML models using industry-standard tools and techniques.
+Grasp core deep learning concepts such as optimizers, loss functions, neural networks, and CNNs.
 
 ## 🗂 Folder Structure
 DS-ML-DL-NLP-Bootcamp/
