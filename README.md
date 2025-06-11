@@ -12,4 +12,20 @@ This repository contains my complete practice work from the **Complete Data Scie
 - Real-world projects and assignments
 
 ## 🗂 Folder Structure
+DS-ML-DL-NLP-Bootcamp/
+│
+├── README.md
+├── notebooks/
+│   ├── 01_numpy_basics.ipynb
+│   ├── 02_pandas_intro.ipynb
+│   └── ...
+├── projects/
+│   └── Titanic_Survival_Prediction/
+│       ├── titanic_model.ipynb
+│       └── dataset.csv
+├── datasets/
+│   └── sample_data.csv
+├── utils/
+│   └── helper_functions.py
+├── requirements.txt
 
